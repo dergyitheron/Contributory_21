@@ -14,3 +14,7 @@ So like every year this year aslo HacktoberFest is giving away to the first 70,0
 * STEP 1: Fork this repo.
 * STEP 2: Make any changes in the Readme. Some cool changes or even typos here will be merged.
 * STEP 3: Make the PR
+This will be counted as one of your contribution to the fest.
+Similarly make more 3 PRs and you will be eligible for the swags.
+
+### ```Till then happy hacking :)```
