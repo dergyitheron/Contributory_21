@@ -1,5 +1,5 @@
 # ✨First PR for HacktoberFest 2021
-This repository is for introduction to FOSS workflow. So for all the curious geeks the best time or the best thing that will give you a exposure to Open-source is the Hacktober Fest.
+This repository is for introduction to FOSS workflow. So for all the curious geeks the best time or the best thing that will give you a exposure to Open-source software run by DigitalOcean in partnership with GitHub and Twilio.
 
 
 ![hacktober-logo](https://res.cloudinary.com/practicaldev/image/fetch/s--Gg3AHVhQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/of9b6i02ifmdq5zlbmkz.jpg)
