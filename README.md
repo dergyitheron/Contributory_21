@@ -1,4 +1,4 @@
-# First_contributions_Hacktober-20
+# First PR for HacktoberFest 2021
 This repository is for introduction to FOSS workflow. So for all the curious geeks the best time or the best thing that will give you a exposure to Open-source is the Hacktober Fest.
 
 
